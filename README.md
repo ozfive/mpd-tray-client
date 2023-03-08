@@ -1,7 +1,10 @@
 # mpd-tray-client
 
-mpd-tray-client is a Go program that creates a system tray icon and menu for playing internet radio stations using the MPD protocol.
+---
 
+mpd-tray-client is a Go program that provides a system tray menu for playing internet radio stations using the MPD protocol.
+
+## Description
 The program uses the [getlantern/systray](https://github.com/getlantern/systray) package to create the system tray icon and menu, and the [fhs/gompd/mpd](https://github.com/fhs/gompd/tree/master/mpd) package to communicate with the MPD server.
 
 mpd-tray-client loads station information and icon images from files and creates menu items for each station with an associated URL. When a station is selected from the menu, mpd-tray-client clears the MPD playlist, adds the station URL to the playlist, and starts playing.
