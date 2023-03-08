@@ -47,4 +47,4 @@ play icon (play-squared-button): [Start icons created by Freepik - Flaticon](htt
 
 pause icon (pause): [Ui icons created by adiobae - Flaticon](https://www.flaticon.com/free-icons/ui)
 ## License
-his program is licensed under the [MIT License](https://opensource.org/license/mit/). See the LICENSE file for details.
+This program is licensed under the [MIT License](https://opensource.org/license/mit/). See the LICENSE file for details.
